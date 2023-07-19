@@ -1,2 +1,0 @@
-Criei uma nova tela de login! 
-Tela criada com sucesso!
