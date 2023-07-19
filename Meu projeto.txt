@@ -1,2 +1,0 @@
-Olá Mundo, sou o professor Alexandre!
-Esse é o meu primeiro proejeto em Git e GitHub.
